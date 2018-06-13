@@ -1,0 +1,18 @@
+{
+  "rb": {
+    "address": "10.0.0.35",
+    "username": "admin",
+    "password": "",
+    "profile": "",
+    "time": ""
+  },
+  "printer": {
+    "type": "EPSON",
+    "name": "EPSON TM-T20 Receipt",
+    "characterSet": "LATINA",
+    "removeSpecialCharacters": true
+  },
+  "voucher": {
+    "lang": "pt"
+  }
+}
